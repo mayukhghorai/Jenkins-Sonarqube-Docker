@@ -13,7 +13,7 @@ public class StudentService
     //getting all student records  
     public List<Student> getAllStudent()
     {
-        List<Student> students = new ArrayList<Student>();
+        List<Student> students = new ArrayList<>();
         studentRepository.findAll().forEach(student -> students.add(student));
         return students;
     }
