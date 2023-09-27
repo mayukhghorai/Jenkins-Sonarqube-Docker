@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.javatpoint</groupId>
 	<artifactId>spring-boot-h2-database-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>spring-boot-h2-database-example</name>
 	<description>Demo Spring Boot applications that starts H2 in memory database</description>
 	<properties>
